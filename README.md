@@ -1,4 +1,4 @@
-# reconIA.sh
+# ReconIA
 
 A streamlined attack surface and subdomain enumeration script for pentesters, powered by tools like Amass, Nuclei, TestSSL, and an AI assistant (Mistral via Ollama).
 
