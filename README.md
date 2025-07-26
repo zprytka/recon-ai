@@ -17,7 +17,7 @@ A streamlined attack surface and subdomain enumeration script for pentesters, po
 - **nuclei** (go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest)
 - **curl, jq** (sudo apt update && sudo apt install -y curl git unzip jq)
 - **testssl.sh** (git clone --depth 1 https://github.com/drwetter/testssl.sh.git Tools/testssl)
-- **ollama with Mistral (or whatever you want) model installed**
+- **ollama with deepseek-r1:8b (or whatever you want) model installed**
 
 
 ## Usage
