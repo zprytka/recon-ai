@@ -17,7 +17,7 @@ A streamlined attack surface and subdomain enumeration script for pentesters, po
 - **httpx** (go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest)
 - **nuclei** (go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest)
 - **curl, jq** (sudo apt update && sudo apt install -y curl git unzip jq)
-- **ollama with mistral (or whatever you want) model installed**
+- **ollama with mistral** (or whatever you want) model installed
 
 
 ## Usage
