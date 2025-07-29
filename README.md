@@ -2,6 +2,8 @@
 
 A streamlined attack surface and subdomain enumeration script for pentesters, powered by tools like Subfinder, Nuclei, httpx, and an AI assistant (Mistral via Ollama).
 
+[![asciicast](https://asciinema.org/a/730482.svg)](https://asciinema.org/a/730482)
+
 ## Features
 
 - Subdomain enumeration with Subfinder
