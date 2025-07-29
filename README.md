@@ -4,7 +4,7 @@ A streamlined attack surface and subdomain enumeration script for pentesters, po
 
 [![asciicast](https://asciinema.org/a/730482.svg)](https://asciinema.org/a/730482)
 
-<script src="https://asciinema.org/a/730482.js" id="asciicast-730482" async="true"></script>
+<a href="https://asciinema.org/a/730482" target="_blank"><img src="https://asciinema.org/a/730482.svg" /></a>
 
 ## Features
 
