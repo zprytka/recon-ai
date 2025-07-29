@@ -4,8 +4,6 @@ A streamlined attack surface and subdomain enumeration script for pentesters, po
 
 [![asciicast](https://asciinema.org/a/730482.svg)](https://asciinema.org/a/730482)
 
-<a href="https://asciinema.org/a/730482" target="_blank"><img src="https://asciinema.org/a/730482.svg" /></a>
-
 ## Features
 
 - Subdomain enumeration with Subfinder
