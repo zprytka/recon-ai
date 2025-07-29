@@ -1,23 +1,21 @@
 # ReconAI
 
-A streamlined attack surface and subdomain enumeration script for pentesters, powered by tools like Amass, Nuclei, TestSSL, and an AI assistant (Mistral via Ollama).
+A streamlined attack surface and subdomain enumeration script for pentesters, powered by tools like Subfinder, Nuclei, httpx, and an AI assistant (Mistral via Ollama).
 
 ## Features
 
-- Subdomain enumeration with Amass
+- Subdomain enumeration with Subfinder
 - Technology fingerprinting using httpx
-- Header and TLS inspection
 - Nuclei vulnerability scanning (with optional -code support)
 - Shodan integration (optional)
 - LLM-assisted analysis via Mistral/Ollama
 
 ## Requirements
-- **amass** (go install -v github.com/owasp-amass/amass/v3/...@latest)
+- **Subfinder** (go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest)
 - **httpx** (go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest)
 - **nuclei** (go install -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei@latest)
 - **curl, jq** (sudo apt update && sudo apt install -y curl git unzip jq)
-- **testssl.sh** (git clone --depth 1 https://github.com/drwetter/testssl.sh.git Tools/testssl)
-- **ollama with deepseek-r1:8b (or whatever you want) model installed**
+- **ollama with mistral (or whatever you want) model installed**
 
 
 ## Usage
