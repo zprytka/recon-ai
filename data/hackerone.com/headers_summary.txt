@@ -1,0 +1,23 @@
+[mta-sts.managed.hackerone.com]
+server: GitHub.com
+[gslink.hackerone.com]
+server: nginx
+[docs.hackerone.com]
+location: https://docs.hackerone.com/en/
+referrer-policy: strict-origin-when-cross-origin
+[support.hackerone.com]
+Location: https://support.hackerone.com/
+Server: cloudflare
+[www.hackerone.com]
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+server: cloudflare
+[mta-sts.hackerone.com]
+server: GitHub.com
+[mta-sts.forwarding.hackerone.com]
+server: GitHub.com
+[api.hackerone.com]
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+[b.ns.hackerone.com]
+Location: https://b.ns.hackerone.com/
+Server: cloudflare

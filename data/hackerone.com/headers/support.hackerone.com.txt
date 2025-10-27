@@ -1,0 +1,93 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 27 Oct 2025 18:57:24 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 27 Oct 2025 19:57:24 GMT
+Location: https://support.hackerone.com/
+Set-Cookie: __cf_bm=LnOxODolb_GDxql2RbtyBdlg4nBqFiDUn48WNTyp.wM-1761591444-1.0.1.1-1JrvpiM9piHrSHg01chfZMc3WD8NPCin4K9MBcVUZkvKqSrnxQp2Lt5w4OrP7B34ekCUVVWnxn4QeOkZqs9oUm96SNUL1XAn3k8oD0p1ha0; path=/; expires=Mon, 27-Oct-25 19:27:24 GMT; domain=.support.hackerone.com; HttpOnly
+Server: cloudflare
+CF-RAY: 99546b423dcf6d9e-MIA
+
+HTTP/2 302 
+date: Mon, 27 Oct 2025 18:57:25 GMT
+content-type: text/html; charset=utf-8
+location: https://support.hackerone.com/support/home
+cf-ray: 99546b455d37148f-BOG
+status: 302 Found
+cache-control: no-store
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+pragma: no-cache
+x-xss-protection: 1; mode=block
+x-request-id: 6f49a769-bb8b-92a6-98d8-876cc68c69ef
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+content-security-policy: default-src 'self'; connect-src 'self' *.freshconnect.io/ *.freshsales.io/ *.freshworks.com/ *.freshdesk.com/ *.freshworksapi.com/ *.freshdeskusercontent.com/ *.freshdeskusercontent-euc.com/ *.freshdeskusercontent-in.com/ *.freshdeskusercontent-aus.com/ *.fconstage.io/ analytics.inlinemanual.com/__profile analytics.inlinemanual.com/__ptm backend.getbeamer.com/ heapanalytics.com/ d3h0owdjgzys62.cloudfront.net/ d2uy6ubiilaqku.cloudfront.net/assets/ dcdu85ocrj5q6.cloudfront.net/ dtdafz6i4gvv1.cloudfront.net/ d3r4aewxkdubw4.cloudfront.net/ d2lz1e868xzctj.cloudfront.net/ rum.haystack.es/freshdesk/analytics fonts.googleapis.com/ fonts.gstatic.com/ sentry.io/api/ wss://*.freshworksapi.com/ wss://*.freshdesk.com/ fg8vvsvnieiv3ej16jby.litix.io/ distillery.wistia.com/ pipedream.wistia.com/ freshworks.asknice.ly/ embedwistia-a.akamaihd.net/ embed-fastly.wistia.com/ maps.googleapis.com/ graph.microsoft.com/v1.0/ freshcaller-attachments.s3.amazonaws.com/production/ euc-freshcaller-attachments.s3.eu-central-1.amazonaws.com/production/ mec-freshcaller-attachments.s3.me-central-1.amazonaws.com/production/ au-freshcaller-attachments.s3-ap-southeast-2.amazonaws.com/production/ in-freshcaller-attachments.s3.ap-south-1.amazonaws.com/production/ pubsub.rtschannel.com/ api.fdcollab.com/ wss://pubsub.rtschannel.com/ cloudflareinsights.com/ data: blob: api.appcues.net/ wss://api.appcues.net/ fast.appcues.com/ cdn.jsdelivr.net/npm/@freshworks/crayons-icon@next/dist/ translate.googleapis.com/translate_a/t translate.googleapis.com/element/log fast.wistia.net/ fast.wistia.com/ embed-cloudfront.wistia.com/deliveries/ app.inlinemanual.com/ client-api.auryc.com/ *.surveyserv.com *.freshsurvey.com *.freddybot.com; font-src 'self' *.freshdesk.com/ fonts.gstatic.com/ fonts.googleapis.com/ cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/fonts/ fast.wistia.net/ fast.wistia.com/ *.freddybot.com cdn.inlinemanual.com/inm/author/ data:; frame-src 'self' https:; img-src 'self' https: data: blob:; media-src 'self' https: blob:; object-src 'none'; script-src 'self' *.freshworksapi.com/ *.freshworks.com/ *.myfreshworks.com/ *.freshdesk.com/ *.freshchat.com/ *.freshcaller.com/ *.freshconnect.io/ *.freshcloud.io/ *.fconstage.io/ accounts.freshworks.com/ wchat.freshchat.com/js/ wchat.freshchat.com/widget/js/ assets.calendly.com/assets/external/widget.js d3h0owdjgzys62.cloudfront.net/ d2uy6ubiilaqku.cloudfront.net/ dtdafz6i4gvv1.cloudfront.net/ dcdu85ocrj5q6.cloudfront.net/ d3r4aewxkdubw4.cloudfront.net/ app.getbeamer.com/js/beamer-embed.js analytics.inlinemanual.com/ cdn.inlinemanual.com/embed/ cdn.heapanalytics.com/ s3.amazonaws.com/assets.freshdesk.com/ cdnjs.cloudflare.com/ ajax.cloudflare.com/ static.cloudflareinsights.com/ js.chargebee.com/v1/chargebee.js js.braintreegateway.com/v1/braintree.js static.freshdev.io/ fast.wistia.net/ fast.wistia.com/ static.getbeamer.com/ calendly.com/ unpkg.com/@webcomponents/webcomponentsjs@2.4.3/custom-elements-es5-adapter.js unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js js-agent.newrelic.com/ www.googletagmanager.com/gtag/js static.asknice.ly/dist/standalone/asknicely-in-app-conversation.js www.dropbox.com/static/api/2/dropins.js js.live.net/v7.2/OneDrive.js apis.google.com/ asknice.ly bam.nr-data.net/ www.google-analytics.com/analytics.js maps.googleapis.com/ unpkg.com/@freshworks/crayons@v3/dist/crayons/crayons.esm.js unpkg.com/@freshworks/crayons@v3/dist/crayons/crayons.js s3.amazonaws.com/freshcaller-widget-loader/ in-freshcaller-widget-loader.s3.ap-south-1.amazonaws.com/ s3.eu-central-1.amazonaws.com/euc-freshcaller-widget-loader/ mec-freshcaller-widget-loader.s3.me-central-1.amazonaws.com/ au-freshcaller-widget-loader.s3-ap-southeast-2.amazonaws.com/ www.dropbox.com/static/api/1/dropbox.js fast.appcues.com/ translate.google.com/translate_a/element.js translate.googleapis.com/_/translate_http/_/js/ translate-pa.googleapis.com/v1/supportedLanguages cdn.surveyserv.com/widget.min.js cdn.freshdev.io/assets/marketplace-heap.js cdn.freshcloud.io/assets/marketplace-heap.js cdn.inlinemanual.com/inm/author/ app.inlinemanual.com/ *.surveyserv.com *.freshsurvey.com www.google.com/recaptcha/ www.gstatic.com/recaptcha/ *.freddybot.com d3el5jsqgryo0a.cloudfront.net accounts.google.com/ 'unsafe-inline' 'unsafe-eval'; style-src 'self' *.freshworks.com *.myfreshworks.com/ *.freshchat.com/ d3h0owdjgzys62.cloudfront.net/ dcdu85ocrj5q6.cloudfront.net/ dtdafz6i4gvv1.cloudfront.net/ d3r4aewxkdubw4.cloudfront.net/ d2uy6ubiilaqku.cloudfront.net/ fonts.googleapis.com/ app.getbeamer.com/styles/beamer-embed.css s3.amazonaws.com/assets.freshdesk.com/ *.freshdesk.com/ wchat.freshchat.com/ calendly.com/ unpkg.com/@webcomponents/webcomponentsjs@2.4.3/custom-elements-es5-adapter.js unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js static.asknice.ly/dist/standalone/asknicely-in-app-conversation.css fast.appcues.com/ asknice.ly *.surveyserv.com *.freshsurvey.com *.freddybot.com cdn.inlinemanual.com/inm/author/ 'unsafe-inline'; worker-src 'self' blob:
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+set-cookie: _x_w=44_2; path=/; HttpOnly; secure
+set-cookie: __cf_bm=FtwJNtwWaI4ojmTjEvgV6PT4yHvXr8bmABJjh4sP0qs-1761591445-1.0.1.1-dG5oXGVWEbqIXgGL5FCswDJRy52F.pr9lUaDBHAurCSF3O21A.umPd9MTF0nFdNnI_MjFaGXADtCVqU5EGNaHftugCmBRK.phMwbEd.zhLc; path=/; expires=Mon, 27-Oct-25 19:27:25 GMT; domain=.support.hackerone.com; HttpOnly; Secure; SameSite=None
+x-envoy-upstream-service-time: 34
+x-trace-id: 00-1df236a38d437bd92d7199cc69f91954-7b92adb110365235-01
+nel: { "report_to": "nel-endpoint-freshdesk", "max_age": 2592000, "include_subdomains": true}
+report-to: { "group": "nel-endpoint-freshdesk", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshdesk"}]}
+x-fw-ratelimiting-managed: false
+cf-cache-status: DYNAMIC
+server: cloudflare
+
+HTTP/2 302 
+date: Mon, 27 Oct 2025 18:57:25 GMT
+content-type: text/html; charset=utf-8
+location: https://support.hackerone.com/support/login
+cf-ray: 99546b473a6f148f-BOG
+status: 302 Found
+x-ratelimit-limit: 300
+x-ratelimit-reset: 271025185822
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-ratelimit-remaining: 298
+x-ratelimit-remaining: 198
+x-xss-protection: 1; mode=block
+x-request-id: c1709488-7064-95d0-9a28-ba7b06d79082
+x-content-type-options: nosniff
+set-cookie: _x_w=44_2; path=/; HttpOnly; secure
+set-cookie: _helpkit_session=MFdvQmVNbUpjVE1zN0ZrT1Y2WHo4ZnZFVlN3V0JIQXUweGI1anZqNHdhckZYdWVXazBlZzZmM2Z1SHlYL3IzWkNEbTM3c3l6eXZjNC83c1NGU015a3BRRjFjNDJMSDJtdGR1UE90dEpBLzBKVlIxemg4eXJGaXp3azNSZ2l0TFN0dUlDbEhPRjIzeXNHWlNtbFBsbi9RPT0tLWVCVTNVNlZ2WmdXT0ZqMGV6dU9KZ1E9PQ%3D%3D--8c11a54d2239fab2c712dc69d2e67c130eb12688; path=/; HttpOnly; secure
+set-cookie: __cf_bm=.UewZnRnfSkt2ToS4KgMz_pPpKPConFfL_vUyz8Jb8A-1761591445-1.0.1.1-qNkzNkF7bl_InnA35zPyk6_Roez6jzVbvhrnYvg1d8CTXAkyOeQFF0HGUcXe3OJZbgrS28INri_ySHsmKcN5zx6M3KSDooi3lnZHvmnU5AY; path=/; expires=Mon, 27-Oct-25 19:27:25 GMT; domain=.support.hackerone.com; HttpOnly; Secure; SameSite=None
+x-envoy-upstream-service-time: 45
+x-trace-id: 00-edff36acbb2ecf203ef1980987cfce72-c158619759729ba6-01
+nel: { "report_to": "nel-endpoint-freshdesk", "max_age": 2592000, "include_subdomains": true}
+report-to: { "group": "nel-endpoint-freshdesk", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshdesk"}]}
+x-fw-ratelimiting-managed: true
+x-ratelimit-total: 200
+x-ratelimit-used-currentrequest: 1
+cf-cache-status: DYNAMIC
+server: cloudflare
+
+HTTP/2 302 
+date: Mon, 27 Oct 2025 18:57:26 GMT
+content-type: text/html; charset=utf-8
+location: https://h1-helpdesk.myfreshworks.com/oauth/authorize?client_id=451979510707337272&redirect_uri=https%3A%2F%2Fhackerone.freshdesk.com%2Ffreshid%2Fauthorize_callback%3Fhd%3Dhttps%3A%2F%2Fsupport.hackerone.com&response_type=code&hd=hackerone.freshdesk.com
+cf-ray: 99546b4a0aec148f-BOG
+status: 302 Found
+x-ratelimit-limit: 300
+x-ratelimit-reset: 271025185823
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-ratelimit-remaining: 298
+x-ratelimit-remaining: 198
+x-xss-protection: 1; mode=block
+x-request-id: b5dc4b26-2200-9976-bbe6-233ab1dd42b3
+x-frame-options: DENY
+x-content-type-options: nosniff
+set-cookie: _x_w=44_2; path=/; HttpOnly; secure
+set-cookie: authorize=true; path=/; secure
+set-cookie: _helpkit_session=dGdIWXB3b21sZW5VdHphRU9nNVgyMVcwS2lybS8xd01KUWoxMjk4WDdVTUZiTm8ycEo5WlJPcDZ3NEZBTGUxWmNIM0hqNys5NTc4NWZ0TWJMNnBvdHFGZC9MNTdKRER6TXJPa3dOd0t2bGFaenZTVzBNMHZEMnplbllBTU5mMW40YjhIc1hpNTlRUGV0VlRzTzBNMDcxNnkrQXh3MCt6TUFPRHNKOXpVT0Y0YzZWNHdLNFNpcmM5QjBRbFJydEc2QzVteE5FWm1teGJtV1k5bWNCbWpnelcvbXRIa2xrUTg0UmUzVCtkSVljYz0tLUYyajY4VDlVdkEvdnZZSU1aWW5PT2c9PQ%3D%3D--253f1bc4f189fe3516afacd470b2247a4d3e851c; path=/; HttpOnly; secure
+set-cookie: __cf_bm=KEgCpU7I4ATBy3wwuaj9u_DdPhb3p55XCuZqVyIwR7o-1761591446-1.0.1.1-UURX7XFZ3mMUvB3LYVVsasHaOvhrtDNlKNtu37ExNJbw5oB5TDMXMVvSZEviPNQwDTmfBvXsb7YwH3eDGxTFSsbIh9_D34dVfCTMe.Winrc; path=/; expires=Mon, 27-Oct-25 19:27:26 GMT; domain=.support.hackerone.com; HttpOnly; Secure; SameSite=None
+x-envoy-upstream-service-time: 48
+x-trace-id: 00-1acf0db596f280835f116d49e21f52d5-67cf05376dfcd9ff-01
+nel: { "report_to": "nel-endpoint-freshdesk", "max_age": 2592000, "include_subdomains": true}
+report-to: { "group": "nel-endpoint-freshdesk", "max_age": 2592000, "include_subdomains": true, "endpoints": [{"url": "https://edge-admin.us-east-1.freshedge.net/nelreports/freshdesk"}]}
+x-fw-ratelimiting-managed: true
+x-ratelimit-total: 200
+x-ratelimit-used-currentrequest: 1
+cf-cache-status: DYNAMIC
+server: cloudflare
+

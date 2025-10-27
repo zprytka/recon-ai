@@ -1,0 +1,83 @@
+You are a cybersecurity expert specializing in external attack surface analysis.
+
+Analyze the reconnaissance data below for domain: hackerone.com
+
+Provide your response in the following JSON structure:
+{
+  "executive_summary": "Brief overview of the security posture",
+  "risk_score": 0-10,
+  "critical_findings": [
+    {
+      "title": "Finding name",
+      "severity": "critical|high|medium|low",
+      "description": "Detailed description",
+      "affected_hosts": ["host1", "host2"],
+      "exploitation_difficulty": "easy|medium|hard",
+      "recommended_action": "Immediate action required"
+    }
+  ],
+  "attack_vectors": [
+    {
+      "vector": "Attack vector name",
+      "priority": 1-10,
+      "entry_points": ["endpoint1", "endpoint2"],
+      "prerequisites": "What is needed to exploit",
+      "impact": "Potential impact"
+    }
+  ],
+  "technology_risks": {
+    "outdated_technologies": ["tech1", "tech2"],
+    "misconfigured_services": ["service1", "service2"],
+    "missing_security_headers": ["host1: header", "host2: header"]
+  },
+  "manual_verification_steps": [
+    "Step-by-step manual testing recommendations"
+  ],
+  "next_actions": {
+    "immediate": ["Action 1", "Action 2"],
+    "short_term": ["Action 3", "Action 4"],
+    "long_term": ["Action 5", "Action 6"]
+  }
+}
+
+=== RECONNAISSANCE DATA ===
+
+--- Detected Technologies ---
+Host | Title | Status Code | Technologies
+185.199.110.153	301 Moved Permanently	301	
+185.199.111.153	301 Moved Permanently	301	
+185.199.111.153	301 Moved Permanently	301	
+162.159.140.147	301 Moved Permanently	301	
+162.159.1.31	301 Moved Permanently	301	
+172.64.151.42		302	
+172.64.151.42	HackerOne | Global leader in offensive security | Security for AI | Crowdsourced Security	200	
+
+--- HTTP Headers (Security Analysis) ---
+[mta-sts.managed.hackerone.com]
+server: GitHub.com
+[gslink.hackerone.com]
+server: nginx
+[docs.hackerone.com]
+location: https://docs.hackerone.com/en/
+referrer-policy: strict-origin-when-cross-origin
+[support.hackerone.com]
+Location: https://support.hackerone.com/
+Server: cloudflare
+[www.hackerone.com]
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+server: cloudflare
+[mta-sts.hackerone.com]
+server: GitHub.com
+[mta-sts.forwarding.hackerone.com]
+server: GitHub.com
+[api.hackerone.com]
+referrer-policy: strict-origin-when-cross-origin
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+[b.ns.hackerone.com]
+Location: https://b.ns.hackerone.com/
+Server: cloudflare
+
+--- Nuclei Vulnerability Scan Results ---
+[github-takeover] [http] [high] https://mta-sts.hackerone.com ["hacker0x01.github.io"]
+
+Provide only valid JSON in your response, no additional text.

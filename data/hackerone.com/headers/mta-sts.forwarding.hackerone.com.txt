@@ -1,0 +1,20 @@
+HTTP/2 404 
+server: GitHub.com
+content-type: text/html; charset=utf-8
+access-control-allow-origin: *
+etag: "64d39a40-24a3"
+content-security-policy: default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'
+x-proxy-cache: MISS
+x-github-request-id: 39E6:28C31D:E58FD:1017D6:68FFC091
+accept-ranges: bytes
+age: 0
+date: Mon, 27 Oct 2025 18:57:22 GMT
+via: 1.1 varnish
+x-served-by: cache-bog-skbo2340027-BOG
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1761591442.305836,VS0,VE85
+vary: Accept-Encoding
+x-fastly-request-id: b03ddff644c935484ee72467aa2457d45f0cc2ae
+content-length: 9379
+

@@ -1,0 +1,28 @@
+HTTP/2 200 
+date: Mon, 27 Oct 2025 18:57:22 GMT
+content-type: text/html; charset=UTF-8
+cf-ray: 99546b32ea01f516-BOG
+cache-control: public, max-age=2678400
+content-language: en
+content-security-policy: default-src 'self' https:; connect-src 'self' https: wss://realtime.luckyorange.com wss://in.visitors.live; font-src 'self' https: data:; img-src 'self' https: data: blob:; media-src 'self' blob:; object-src 'none'; script-src 'self' 'report-sample' 'unsafe-inline' 'unsafe-eval' https:; style-src 'self' 'report-sample' 'unsafe-inline' https:; worker-src 'self' blob:; base-uri 'self'; frame-ancestors 'self'; upgrade-insecure-requests
+cross-origin-opener-policy: same-origin
+etag: W/"1761583276"
+expires: Thu, 27 Nov 2025 18:57:22 GMT
+last-modified: Mon, 27 Oct 2025 16:41:16 GMT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-content-type-options: nosniff
+x-drupal-cache: MISS
+x-drupal-dynamic-cache: HIT
+x-frame-options: SAMEORIGIN
+x-pantheon-styx-hostname: styx-fe4-b-d4f574986-lk9zq
+x-styx-req-id: c1cd38e5-b353-11f0-b659-ca782e42c2c9
+x-served-by: cache-chi-klot8100092-CHI, cache-gru-sbsp2090052-GRU
+x-cache: HIT, MISS
+x-cache-hits: 7, 0
+x-timer: S1761583338.838923,VS0,VE134
+vary: Accept-Encoding, Cookie, Cookie, Cookie
+via: 1.1 varnish, 1.1 varnish
+cf-cache-status: HIT
+age: 3
+server: cloudflare
+

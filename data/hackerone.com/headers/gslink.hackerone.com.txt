@@ -1,0 +1,10 @@
+HTTP/2 404 
+content-type: text/html
+content-length: 146
+server: nginx
+date: Mon, 27 Oct 2025 18:57:22 GMT
+x-cache: Error from cloudfront
+via: 1.1 4596032a18be88eca98d1fc12c500fb2.cloudfront.net (CloudFront)
+x-amz-cf-pop: BOG51-P2
+x-amz-cf-id: tkryBzEIcYSt9KVdK0p_GNhvLz9oCCV9vvHduO0s0c3ZlzbYSiRQyQ==
+

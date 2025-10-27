@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Date: Mon, 27 Oct 2025 18:57:22 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Mon, 27 Oct 2025 19:57:22 GMT
+Location: https://b.ns.hackerone.com/
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 99546b331b59b6f2-BOG
+
