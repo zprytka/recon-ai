@@ -1,4 +1,0 @@
-[github-takeover] [http] [high] https://mta-sts.managed.hackerone.com ["hacker0x01.github.io"]
-[github-takeover] [http] [high] https://mta-sts.hackerone.com ["hacker0x01.github.io"]
-[github-takeover] [http] [high] https://mta-sts.forwarding.hackerone.com ["hacker0x01.github.io"]
-[mismatched-ssl-certificate] [ssl] [low] resources.hackerone.com:443 ["CN: *.uberflip.com"]
