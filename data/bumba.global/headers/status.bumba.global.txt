@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx/1.27.2
+Date: Tue, 19 Aug 2025 14:11:45 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 3762
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+ETag: W/"eb2-dA5rRtWXjMo/cUqzghPohqRBL6Q"
+

@@ -1,0 +1,20 @@
+HTTP/2 200 
+date: Mon, 28 Jul 2025 16:38:42 GMT
+content-type: text/html
+content-length: 9126
+last-modified: Mon, 28 Jul 2025 14:17:21 GMT
+etag: "68878671-23a6"
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+x-download-options: noopen
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+expect-ct: enforce, max-age=86400
+content-security-policy: default-src 'none'; block-all-mixed-content; connect-src 'self' www.google-analytics.com cdn.jsdelivr.net *.algolia.net *.algolianet.com; font-src 'self'; img-src 'self' data:; script-src 'self' 'unsafe-eval' 'unsafe-inline' www.google-analytics.com cdn.jsdelivr.net *.algolia.net *.algolianet.com; style-src 'self' 'unsafe-inline' cdn.jsdelivr.net; form-action 'self';
+accept-ranges: bytes
+cf-cache-status: DYNAMIC
+server: cloudflare
+cf-ray: 9665cef1bc221e8a-EZE
+

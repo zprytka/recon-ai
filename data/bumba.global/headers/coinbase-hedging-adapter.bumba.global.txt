@@ -1,0 +1,19 @@
+HTTP/2 404 
+date: Tue, 19 Aug 2025 14:11:45 GMT
+content-type: application/json; charset=utf-8
+content-length: 64
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+access-control-allow-origin: *
+etag: W/"40-SZHlnYA2/uxlpXZnnnQIw28sWgQ"
+cf-cache-status: DYNAMIC
+expect-ct: max-age=86400, enforce
+referrer-policy: same-origin
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+permissions-policy: geolocation=(self)
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=9FcSVYqAuzx%2FtMIkUD3lf7cF2BatwsTWvdWw7M1D2t4%2Fm1QhXd2LnkU3WLGqWmRp%2FdkZAwbim%2BVSfjAfcgeVG4O3b5MN1qegu5xI%2FAF6HY0D0vtxkPXE%2B6B%2BmnKqnH1qoagfAw%3D%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+server: cloudflare
+cf-ray: 971a3df0ab8bfd7a-EZE
+

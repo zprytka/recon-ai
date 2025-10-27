@@ -1,0 +1,15 @@
+HTTP/2 404 
+date: Tue, 19 Aug 2025 14:11:45 GMT
+server: cloudflare
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+expect-ct: max-age=86400, enforce
+referrer-policy: same-origin
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+permissions-policy: geolocation=(self)
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pK9X7IrIsmunuCaGI8wLWkSCCPTtRigCb1lziSDDj%2Bu6%2BpMiIMfkjOZH%2FV2nVLLf4%2FCHb4x8WRg6Z87QIFfBhtq50FP%2B3OsX2YZfqcVYmFqPkJmHtbwBdA%3D%3D"}]}
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+cf-ray: 971a3df158171ea6-EZE
+

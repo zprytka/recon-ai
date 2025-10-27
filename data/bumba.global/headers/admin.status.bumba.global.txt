@@ -1,0 +1,7 @@
+HTTP/1.1 403 Forbidden
+Server: nginx/1.27.2
+Date: Tue, 19 Aug 2025 14:11:45 GMT
+Content-Type: text/html
+Content-Length: 153
+Connection: keep-alive
+

@@ -1,0 +1,27 @@
+HTTP/2 200 
+date: Tue, 19 Aug 2025 14:11:45 GMT
+content-type: text/html
+last-modified: Fri, 14 Mar 2025 12:06:54 GMT
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+x-amz-server-side-encryption: aws:kms
+x-amz-server-side-encryption-aws-kms-key-id: arn:aws:kms:sa-east-1:730335220998:key/2be3916f-810b-4cff-a7b3-7920a07e2b3f
+x-amz-server-side-encryption-bucket-key-enabled: true
+x-amz-version-id: PnQpIGd9JSNxYD6tjG1Gqu880qETFrvB
+server: cloudflare
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kjXzlIqyvkbEdCaJ%2B0cqmTGP5iGyCFHIAwyxv%2BUw5RubuykN3iASjmYnCLPMg7ZCNWbXJlDCS9dCN5uNhS94zZgSx9LmVaz3p3OTdW7Ftd456OWlkQ%3D%3D"}]}
+vary: accept-encoding
+x-cache: Hit from cloudfront
+via: 1.1 edc09dc2a6ff378ead0903c197feed04.cloudfront.net (CloudFront)
+x-amz-cf-pop: EZE50-P2
+x-amz-cf-id: RnMzv2EjeBrc5l1Ic7SW_ow31gbntC8yYmHN-7GymSf1YBmIY8zwLQ==
+age: 67637
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+expect-ct: max-age=86400, enforce
+referrer-policy: same-origin
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+permissions-policy: geolocation=(self)
+cf-ray: 971a3def5d301fd8-EZE
+

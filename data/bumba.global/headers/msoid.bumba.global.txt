@@ -1,0 +1,31 @@
+HTTP/2 200 
+date: Tue, 19 Aug 2025 14:11:45 GMT
+content-type: text/html; charset=utf-8
+cache-control: no-store, no-cache
+pragma: no-cache
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+expires: -1
+x-content-type-options: nosniff
+link: <https://aadcdn.msauth.net>; rel=preconnect; crossorigin
+link: <https://aadcdn.msauth.net>; rel=preconnect; crossorigin,<https://aadcdn.msauth.net>; rel=dns-prefetch
+link: <https://aadcdn.msauth.net>; rel=preconnect; crossorigin,<https://aadcdn.msauth.net>; rel=dns-prefetch,<https://aadcdn.msftauth.net>; rel=dns-prefetch
+x-dns-prefetch-control: on
+p3p: CP="DSP CUR OTPi IND OTRi ONL FIN"
+x-ms-request-id: bd2add2e-6fb4-48a6-9fb3-e3b855300000
+x-ms-ests-server: 2.1.21665.5 - WUS3 ProdSlices
+content-security-policy-report-only: object-src 'none'; base-uri 'self'; script-src 'self' 'nonce-e48oErBPeFvM4pnqIShsvw' 'unsafe-inline' 'unsafe-eval' https://*.msauth.net https://*.msftauth.net https://*.msftauthimages.net https://*.msauthimages.net https://*.msidentity.com https://*.microsoftonline-p.com https://*.microsoftazuread-sso.com https://*.azureedge.net https://*.outlook.com https://*.office.com https://*.office365.com https://*.microsoft.com https://*.bing.com 'report-sample'; report-uri https://csp.microsoft.com/report/ESTS-UX-All
+x-xss-protection: 1; mode=block
+cf-cache-status: DYNAMIC
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+expect-ct: max-age=86400, enforce
+referrer-policy: same-origin
+x-frame-options: SAMEORIGIN
+permissions-policy: geolocation=(self)
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FF5hYY5Sn9jy7TWSwATZXUZUG3CPG2qtlcj0091OWJ0VqE4GG4j5ga6jvvxnygrf%2Bpefmma%2F41F1LTM%2Fw4CvPiLpKbXpzFnbezZbN71XMw%3D%3D"}]}
+server: cloudflare
+set-cookie: fpc=AlJALmZamNNNtb3vYj47XeY; HttpOnly; SameSite=None; Secure; Path=/; Expires=Thu, 18 Sep 2025 14:11:45 GMT
+set-cookie: esctx=PAQABBwEAAABVrSpeuWamRam2jAF1XRQEBpa6jU6rzMSE51UqF8TCLYicivROatukfH1rcBG7PWsUYBz5wA-34r78LkTx7ZBxtk2agXy-rsCTz1Il85TK2A5pEYebbQKXUzxFsqEqpxvynpDaB2OEo9i6FE5l8WYfFc1eDtY1uJFtQYhnMoqR4-CxXX32IvI79J45ItCAVzsgAA; HttpOnly; SameSite=None; Secure; Path=/; Domain=msoid.bumba.global
+set-cookie: x-ms-gateway-slice=estsfd; HttpOnly; SameSite=None; Secure; Path=/
+set-cookie: stsservicecookie=estsfd; HttpOnly; SameSite=None; Secure; Path=/
+cf-ray: 971a3df2aed98bc1-EZE
+

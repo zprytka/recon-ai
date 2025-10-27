@@ -1,0 +1,26 @@
+HTTP/2 200 
+date: Tue, 19 Aug 2025 14:11:46 GMT
+content-type: text/html;charset=UTF-8
+nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+content-language: en-US
+x-amz-cognito-request-id: a6c83d5d-b37a-4412-a521-c0752134d8dd
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+pragma: no-cache
+expires: 0
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+x-frame-options: SAMEORIGIN
+server: cloudflare
+x-cache: Miss from cloudfront
+via: 1.1 d576766ef7aeecc219a0468a3f52bbd6.cloudfront.net (CloudFront)
+x-amz-cf-pop: EZE50-P1
+x-amz-cf-id: ZHMHxIGAho8W5Q6npTsXk1heuDx32ygdYUaUN9vLOprQ-PrUYQ192Q==
+cf-cache-status: DYNAMIC
+expect-ct: max-age=86400, enforce
+referrer-policy: same-origin
+permissions-policy: geolocation=(self)
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=LaYNc3Dv01aIQthyl0w%2BElMRjhd6LoUdZYeRewQR50lK3b0PmvZ80TIFGyOU7JZ0LPh4SUOJw%2BiiORGHQ7ztO3n%2F7ZANq72E1duJjJ0AdC0u%2FroTHxQ%3D"}]}
+set-cookie: XSRF-TOKEN=accd5149-c173-4047-a091-c86e879fc97f; HttpOnly; SameSite=Lax; Secure; Path=/
+cf-ray: 971a3df2ec26a780-EZE
+

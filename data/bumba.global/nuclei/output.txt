@@ -1,0 +1,2 @@
+[expired-ssl] [ssl] [low] admin.status.bumba.global:443 ["2025-07-22 08:30:03 +0000 UTC"]
+[expired-ssl] [ssl] [low] status.bumba.global:443 ["2025-07-22 08:30:03 +0000 UTC"]
