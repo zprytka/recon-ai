@@ -1,4 +1,4 @@
-# ReconAI
+# Recon-AI
 
 A streamlined attack surface and subdomain enumeration script for pentesters, powered by tools like Subfinder, Nuclei, httpx, and an AI assistant (Mistral via Ollama).
 
@@ -23,4 +23,4 @@ A streamlined attack surface and subdomain enumeration script for pentesters, po
 ## Usage
 
 ```bash
-./reconIA.sh example.com
+./recon-ai.sh example.com
